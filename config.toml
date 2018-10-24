@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Matt Hughston"
-baseURL = "http://localhost:1313/"
+baseURL = "https://quizzical-engelbart-46af66.netlify.com/"
 theme = "hugo-theme-massively"
 googleanalytics = "UA-113904582-3"
 disqusShortname = "hugo-massively"
